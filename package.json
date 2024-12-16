@@ -49,15 +49,15 @@
     "typescript-eslint": "8.18.0"
   },
   "devDependencies": {
-    "@studiometa/prettier-config": "^4.1.0",
+    "@studiometa/prettier-config": "4.1.0",
     "@types/eslint__js": "8.42.3",
     "@types/eslint-config-prettier": "6.11.3",
-    "@types/node": "^20.17.10",
+    "@types/node": "20.17.10",
     "esbuild": "0.24.0",
-    "eslint": "^9.16.0",
-    "prettier": "^3.4.2",
+    "eslint": "9.16.0",
+    "prettier": "3.4.2",
     "typescript": "5.7.2",
-    "vue": "^3.5.13"
+    "vue": "3.5.13"
   },
   "peerDependencies": {
     "eslint": ">=9.0.0",
